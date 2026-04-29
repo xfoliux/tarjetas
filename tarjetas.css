@@ -71,7 +71,7 @@ body {
 }
 
 .item:hover {
-  background: #8c17ac;
+  background: #17ac30;
   transform: scale(1.05);
   box-shadow: 0 12px 25px rgba(0, 0, 0, 0.3);
 }
